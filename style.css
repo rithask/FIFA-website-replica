@@ -1,0 +1,28 @@
+/* Language: css */
+/* Path: style.css */
+nav {
+  background-color: #010A1C;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 1em;
+}
+
+nav a:hover {
+  color: aqua;
+}
+
+.dropdown {
+  margin-left: auto;
+}
+
+.dropdown button {
+  background-color: #273041;
+  color: white;
+}
+
+svg {
+  color: white;
+}
